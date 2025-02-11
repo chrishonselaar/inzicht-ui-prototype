@@ -1,0 +1,3 @@
+Translate this manifest for a political research tool to a very concise aligned effective system prompt used for generating queries to find relevant documents in municipal county archives of these types: Besluitenlijst Agendacommissie, Collegebrieven, Initiatiefvoorstellen, Moties, Overige ingekomen stukken, Raadsvoorstellen, Reglementen en verordeningen raad, Schriftelijke vragen, Verslag Politiek Vragenuur, Verslag Politieke Woensdag, Verslag Raadsvergadering.
+The queries should be used to find documents that are relevant to the user's question, the user being a municipal council member or party worker.
+Generate just the system prompt, which will later be used to generate queries.

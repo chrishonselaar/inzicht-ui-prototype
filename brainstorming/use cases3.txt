@@ -1,0 +1,41 @@
+Here are 30 high-impact applications for your policy document embeddings:
+SEARCH & RETRIEVAL
+
+Find all policies related to specific urban development projects
+Identify historical precedents for current policy proposals
+Track how specific policy topics evolved across document types
+Search for similar past motions before drafting new ones
+
+CLUSTERING & PATTERN DETECTION
+5. Group similar policy proposals to identify overlapping initiatives
+6. Detect common themes in citizen questions at Political Hours
+7. Identify clusters of related regulations that might need harmonization
+8. Find thematic patterns in Council meeting discussions
+TEMPORAL ANALYSIS
+9. Track policy topic shifts over time using document timestamps
+10. Identify seasonal/cyclical patterns in policy discussions
+11. Measure response times between related documents
+12. Analyze evolution of policy language over time
+PROCESS OPTIMIZATION
+13. Identify bottlenecks in policy approval workflows
+14. Find frequently recurring agenda items
+15. Detect duplicate or redundant policy proposals
+16. Measure typical lifecycle of different document types
+RELATIONSHIP MAPPING
+17. Link related documents across different document types
+18. Track policy proposals through various stages
+19. Map connections between council questions and responses
+20. Identify dependencies between regulations
+COMPLIANCE & CONSISTENCY
+21. Check new proposals against existing regulations
+22. Find potentially conflicting policies
+23. Ensure consistent terminology across document types
+24. Detect policy gaps or overlaps
+STAKEHOLDER ANALYSIS
+25. Map which council members focus on specific topics
+26. Analyze response patterns to citizen inquiries
+27. Track engagement levels on different policy areas
+28. Identify successful vs. unsuccessful proposal patterns
+IMPACT ASSESSMENT
+29. Measure policy implementation follow-through
+30. Track outcomes of similar past initiatives

@@ -1,0 +1,40 @@
+<uitleg>
+
+# Intelligente Kennisanalyse voor Democratische Besluitvorming
+## Versterking van Evidence-Based Beleid voor Dierenrechten
+
+Volksvertegenwoordigers en beleidsmedewerkers worden overspoeld door een tsunami aan complexe technische documenten, wetenschappelijke rapporten en beleidsstukken, waardoor cruciale kansen voor dierenwelzijn en duurzaamheid worden gemist. Twee innovatieve AI-gedreven tools - Waldorf voor diepgaande documentanalyse en Statler voor real-time vergaderondersteuning - stellen raadsleden in staat om sneller en effectiever evidence-based besluiten te nemen. Deze tools, gebouwd op een fundament van 30.000+ gemeentelijke documenten en geavanceerde semantische zoektechnologie, kunnen een game-changer zijn voor kleine partijen en NGO's die opkomen voor dieren, natuur en duurzaamheid.
+
+### Het Probleem
+
+Raadsleden en beleidsmedewerkers staan voor een groeiende uitdaging:
+- Exponentieel groeiende hoeveelheid complexe technische dossiers en beleidsdocumenten
+- Beperkte tijd en middelen voor diepgaande analyse
+- Moeite met het vinden van relevante precedenten en wetenschappelijke onderbouwing
+
+In mijn werk als vrijwilliger en tijdelijk commissielid bij de Partij voor de Dieren Provinciale Staten Groningen heb ik deze uitdagingen persoonlijk ervaren. Enkele praktijkvoorbeelden:
+
+- Bij het analyseren van een vergunningsaanvraag voor een biomassacentrale ontdekte ik cruciale onvolledigheden en onjuistheden in de documentatie. Een geautomatiseerd analyse-instrument zou dit proces aanzienlijk hebben versneld en verdiept.
+- In de strijd tegen circusdieren in Groningen heb ik handmatig precedenten moeten zoeken in andere gemeenten. Een systematische aanpak had sneller tot effectieve beleidsvorming kunnen leiden.
+- Bij het doorwerken van omvangrijke IPCC-rapporten voor lokale klimaatbesluitvorming werd duidelijk hoe waardevol geautomatiseerde documentanalyse zou zijn.
+- Recent verscheen "The Plant-based and Vegan Handbook", een uitgebreid wetenschappelijk werk dat een schat aan evidence-based argumenten bevat. Zonder slimme analysetools blijft deze kennis grotendeels onbenut.
+
+### De Oplossing
+
+Twee complementaire kennisanalysetools die direct inspelen op deze uitdagingen:
+
+**1. Waldorf: Diepgaande Kennisassistent**
+- Geavanceerde analyse van 30.000+ gemeentelijke documenten
+- Semantische zoektechnologie voor precedentonderzoek
+- Systematische analyse van grote technische documenten
+- Directe koppeling met wetenschappelijke bronnen
+
+Databronnen:
+- Gemeentelijke documenten: Besluitenlijst Agendacommissie, Collegebrieven, Initiatiefvoorstellen, Moties, Overige ingekomen stukken, Raadsvoorstellen, Reglementen en verordeningen raad, Schriftelijke vragen, Verslag Politiek Vragenuur, Verslag Politieke Woensdag, Verslag Raadsvergadering
+- Wetenschappelijke online bronnen
+- Sociale media
+- Persberichten
+</uitleg>
+
+Based on these data sources, help me come up with a query to retrieve sources out of this dataset and an LLM prompt to convert the found sources into a radar chart that illustrates how various political parties voted on a certain policy.
+The policy being: "Plant-based and Vegan Policy"

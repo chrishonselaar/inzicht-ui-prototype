@@ -1,0 +1,112 @@
+Queries
+
+Here's a comprehensive set of valuable query and visualization examples you could showcase to demonstrate the power of AI-enabled council document analysis:
+
+SEMANTIC SEARCH CAPABILITIES:
+1. Policy Impact Tracking
+- Search for all discussions and decisions about a specific policy (e.g., "bicycle infrastructure") across both cities and show how it evolved
+- Find similar policy approaches between Amsterdam and Groningen for comparison
+- Identify interconnected policy areas through semantic relationships
+
+2. Historical Context
+- "Show me all previous discussions related to this current proposal"
+- Find historical precedents for current decisions
+- Track how specific issues have been handled over the 5-year period
+
+ANALYSIS & VISUALIZATIONS:
+1. Topic Evolution Maps
+- Timeline visualization showing how key topics emerged and developed
+- Heat maps of most discussed issues by year/quarter
+- Topic clustering to show related policy areas
+
+2. Cross-Reference Analysis
+- Network graphs showing relationships between different policy areas
+- Comparison charts of how similar issues were handled in both cities
+- Decision flow diagrams showing policy implementation paths
+
+PRACTICAL APPLICATIONS:
+1. Decision Support
+- "What were the outcomes of similar proposals in the past?"
+- "What potential challenges were identified in comparable projects?"
+- Automatic flagging of relevant historical context for current proposals
+
+2. Budget Analysis
+- Track spending patterns across different policy areas
+- Compare budget allocations between cities
+- Identify cost-effective approaches based on historical data
+
+3. Stakeholder Impact Analysis
+- Map which neighborhoods/groups are most affected by certain policies
+- Track citizen feedback patterns
+- Identify underserved areas or communities
+
+EFFICIENCY TOOLS:
+1. Automated Briefings
+- Generate summary reports of historical context for new proposals
+- Create comparative analysis between cities on specific issues
+- Produce trend analysis for long-term planning
+
+2. Early Warning System
+- Flag potential conflicts with existing policies
+- Identify areas requiring additional attention based on historical patterns
+- Alert to similar challenges faced in previous projects
+
+PRESENTATION SUGGESTIONS:
+
+1. Live Demo
+- Show a real-time semantic search comparing how both cities handled a specific issue
+- Demonstrate how quickly relevant historical context can be retrieved
+- Show interactive visualizations that council members could use
+
+2. ROI Examples
+- Time saved in research and preparation
+- Better-informed decision-making through comprehensive historical analysis
+- Improved policy consistency through better awareness of previous decisions
+
+3. User Stories
+- Show how a council member could use the tool to prepare for meetings
+- Demonstrate how it could help in responding to constituent questions
+- Illustrate how it could support policy development
+
+SPECIFIC QUERY EXAMPLES:
+
+1. "Show me all sustainable energy initiatives from both cities and their outcomes"
+- Compare approaches
+- Identify success factors
+- Highlight lessons learned
+
+2. "What were the main challenges in implementing housing policies over the last 5 years?"
+- Track recurring issues
+- Show solution patterns
+- Identify successful approaches
+
+3. "How have transportation policies evolved in relation to climate goals?"
+- Show policy progression
+- Identify integration points
+- Highlight impact measurements
+
+UNIQUE SELLING POINTS:
+
+1. Comprehensive Context
+- No more missed precedents
+- Complete historical perspective
+- Cross-city learning opportunities
+
+2. Time Efficiency
+- Instant access to relevant information
+- Automated analysis and briefings
+- Quick comparison capabilities
+
+3. Better Decision Making
+- Data-driven insights
+- Historical pattern recognition
+- Impact prediction capabilities
+
+Remember to:
+- Focus on practical applications rather than technical details
+- Use real examples from the database
+- Demonstrate immediate value for council members
+- Show how it complements rather than replaces human expertise
+- Emphasize the tool's role in promoting more informed and effective governance
+
+This approach should effectively demonstrate how AI and semantic search can transform council operations while making the benefits tangible and relatable to council members.

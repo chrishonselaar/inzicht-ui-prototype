@@ -1,0 +1,93 @@
+{
+  "main_topic": "Veehouderij en veeteeltbeleid",
+  "relationships": [
+    {
+      "related_topic": "Dierenwelzijn",
+      "relationship_type": "onderdeel van",
+      "strength": 0.9,
+      "description": "Dierenwelzijn is een centraal aspect van veeteeltbeleid",
+      "secondary_topics": {
+        "Diergezondheid": {
+          "relationship_type": "gerelateerd aan",
+          "strength": 0.7
+        },
+        "Dierrechten": {
+          "relationship_type": "onderdeel van",
+          "strength": 0.6
+        }
+      },
+      "secondary_relationships": {
+        "Klimaatverandering": {
+          "relationship_type": "be\u00efnvloedt",
+          "strength": 0.8
+        }
+      }
+    },
+    {
+      "related_topic": "Milieu-impact",
+      "relationship_type": "direct gevolg van",
+      "strength": 0.85,
+      "description": "Veehouderij heeft significante milieueffecten",
+      "secondary_topics": {
+        "Broeikasgasuitstoot": {
+          "relationship_type": "onderdeel van",
+          "strength": 0.9
+        },
+        "Landgebruik": {
+          "relationship_type": "be\u00efnvloedt",
+          "strength": 0.75
+        }
+      },
+      "secondary_relationships": {
+        "Biodiversiteit": {
+          "relationship_type": "negatief be\u00efnvloedt",
+          "strength": 0.8
+        }
+      }
+    },
+    {
+      "related_topic": "Eiwittransitie",
+      "relationship_type": "transformatieproces",
+      "strength": 0.7,
+      "description": "Verschuiving naar meer plantaardige eiwitproductie",
+      "secondary_topics": {
+        "Voedselproductie": {
+          "relationship_type": "onderdeel van",
+          "strength": 0.8
+        },
+        "Landbouwinnovatie": {
+          "relationship_type": "stimuleert",
+          "strength": 0.6
+        }
+      },
+      "secondary_relationships": {
+        "Volksgezondheid": {
+          "relationship_type": "positief be\u00efnvloedt",
+          "strength": 0.7
+        }
+      }
+    },
+    {
+      "related_topic": "Gezondheidsrisico's",
+      "relationship_type": "gerelateerd aan",
+      "strength": 0.75,
+      "description": "Veehouderij kan gezondheidsrisico's voor omwonenden veroorzaken",
+      "secondary_topics": {
+        "Zo\u00f6nosen": {
+          "relationship_type": "potentieel risico",
+          "strength": 0.8
+        },
+        "Luchtkwaliteit": {
+          "relationship_type": "be\u00efnvloedt",
+          "strength": 0.7
+        }
+      },
+      "secondary_relationships": {
+        "Longaandoeningen": {
+          "relationship_type": "mogelijk verband",
+          "strength": 0.6
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+<systeemprompt>
+Als beleidsassistent help ik bij het analyseren en beantwoorden van beleidsvragen volgens deze richtlijnen:
+
+1. Waardengedreven analyse:
+- Toets voorstellen aan kernwaarden: dierenrechten, duurzaamheid, ecosysteemdenken
+- Identificeer onderliggende principes en langetermijneffecten
+- Prioriteer ecologische en dierenwelzijnsbelangen
+
+2. Depolariserende aanpak:  
+- Focus op gedeelde waarden en feitelijke basis
+- Maak onderscheid tussen waardeverschillen en uitvoeringskwesties
+- Belicht voorbeelden van succesvolle samenwerking
+
+3. Kennis integratie:
+- Verbind lokale ervaringen met wetenschappelijke inzichten
+- Behoud context en bronverwijzingen
+- Benadruk methodologische onderbouwing
+
+4. Dialoogstructuur:
+- Start met relevante principes/waarden
+- Presenteer meerdere perspectieven
+- Identificeer consensus en reële meningsverschillen
+- Evalueer aansluiting bij gestelde principes
+
+5. Transparantie:
+- Wees expliciet over aannames en onzekerheden
+- Maak belangenafwegingen inzichtelijk
+- Toon consistentie met eerder ingenomen standpunten
+
+Per vraag lever ik een beknopte analyse die zowel principieel als praktisch onderbouwd is, met respect voor verschillende zienswijzen maar vanuit een duidelijke ecocentrische visie.
+
+Ik help beginnende gebruikers met suggesties, bijvoorbeeld voor vragen die relevant zijn voor de gemeentelijke archieven (Besluitenlijst Agendacommissie, Collegebrieven, Initiatiefvoorstellen, Moties, Overige ingekomen stukken, Raadsvoorstellen, Reglementen en verordeningen raad, Schriftelijke vragen, Verslag Politiek Vragenuur, Verslag Politieke Woensdag, Verslag Raadsvergadering) en online bronnen (wetenschappelijke publicaties, sociale media, persberichten), of die de kracht van de geavanceerde LLM-technieken exploiteren om tot nieuwe inzichten te komen.
+</systeemprompt>
+
+<bronnen>
+# Effective Climate Adaptation Measures in Dutch Historical City Centers: Balancing Climate Resilience and Cultural Heritage Preservation
+
+
+## Introduction
+
+
+As climate change continues to impact urban environments, municipalities in the Netherlands are increasingly implementing climate adaptation measures to mitigate the effects of extreme weather events such as heavy rainfall, heatwaves, and drought. These efforts are particularly challenging in historical city centers, where the need for climate resilience must be balanced with the preservation of cultural and historical values. This report explores proven climate adaptation measures implemented by Dutch municipalities in their historical city centers, focusing on the interplay between climate resilience and cultural heritage. Additionally, it examines lessons learned from pilot projects and evaluations to provide insights into best practices and future strategies.
+
+
+---
+
+
+## Climate Challenges in Historical City Centers
+
+
+Historical city centers in the Netherlands are uniquely vulnerable to climate change due to their dense urban fabric, limited green spaces, and aging infrastructure. Key challenges include:
+
+
+1. **Flooding and Water Management**: Many Dutch cities are located in low-lying areas, making them susceptible to flooding from heavy rainfall and rising water levels. Historical centers often have limited drainage capacity, increasing the risk of water damage to heritage buildings and infrastructure ([Binnenlands Bestuur, 2020](https://www.binnenlandsbestuur.nl/ruimte-en-milieu/sweco-nederland/klimaatbestendige-steden)).
+
+
+2. **Urban Heat Islands**: The dense construction and lack of greenery in historical centers exacerbate the urban heat island effect, leading to higher temperatures during heatwaves. This poses risks to public health and the structural integrity of historical buildings ([Klimaatadaptatie Nederland, 2021](https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten)).
+
+
+3. **Preservation of Cultural Heritage**: Climate adaptation measures must be carefully designed to avoid compromising the historical and aesthetic value of heritage sites. This requires innovative solutions that integrate modern climate resilience with traditional urban design ([Klimaatadaptatie Nederland, 2021](https://klimaatadaptatienederland.nl/kennisdossiers/cultureel-erfgoed/integreer-cultureel-erfgoed-beleid/lokaal-regionaal-beleid)).
+
+
+---
+
+
+## Proven Climate Adaptation Measures
+
+
+### 1. **Green Infrastructure**
+
+
+Green infrastructure, such as urban parks, green roofs, and vertical gardens, has proven effective in mitigating the effects of heatwaves and improving water management. In historical city centers, green infrastructure is often integrated into existing structures to preserve cultural heritage. For example:
+
+
+- **Green Roofs and Walls**: Cities like Rotterdam and Nijmegen have implemented green roofs on historical buildings to reduce heat absorption and improve insulation. These measures also help manage rainwater by reducing runoff ([Sweco Nederland, 2020](https://www.binnenlandsbestuur.nl/ruimte-en-milieu/sweco-nederland/klimaatbestendige-steden)).
+
+
+- **Restoration of Historical Green Spaces**: Historical parks and tree-lined avenues are being restored to provide shade and cooling effects while maintaining their cultural significance. For instance, historical tree structures in cities like Utrecht have been reintroduced to enhance urban cooling ([Klimaatadaptatie Nederland, 2021](https://klimaatadaptatienederland.nl/kennisdossiers/cultureel-erfgoed/integreer-cultureel-erfgoed-beleid/lokaal-regionaal-beleid)).
+
+
+---
+
+
+### 2. **Water Management Systems**
+
+
+Innovative water management systems are essential for addressing flooding in historical city centers. Key measures include:
+
+
+- **Water Squares**: Rotterdam has pioneered the use of water squares, multifunctional public spaces that temporarily store excess rainwater during heavy rainfall. These squares also serve as recreational areas, blending functionality with urban aesthetics ([Urban Adapt, 2023](https://urbanadapt.eu/over-life-urbanadapt)).
+
+
+- **Restoration of Historical Waterways**: Historical canals and watercourses are being restored to improve water drainage and storage capacity. For example, in cities like Amsterdam and Delft, previously filled-in canals have been reopened to enhance water management while preserving historical features ([Klimaatadaptatie Nederland, 2021](https://klimaatadaptatienederland.nl/kennisdossiers/cultureel-erfgoed/integreer-cultureel-erfgoed-beleid/lokaal-regionaal-beleid)).
+
+
+---
+
+
+### 3. **Climate-Resilient Urban Design**
+
+
+Urban design strategies that integrate climate resilience with cultural heritage preservation include:
+
+
+- **Permeable Pavements**: Permeable pavements are increasingly used in historical city centers to improve water infiltration and reduce runoff. These pavements are designed to blend with the historical character of the area ([KAN Bouwen, 2020](https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk)).
+
+
+- **Adaptive Reuse of Heritage Buildings**: Historical buildings are being retrofitted with climate-resilient features, such as improved insulation and energy-efficient systems. This approach preserves the cultural value of the buildings while enhancing their resilience to climate impacts ([Sweco Nederland, 2020](https://www.binnenlandsbestuur.nl/ruimte-en-milieu/sweco-nederland/klimaatbestendige-steden)).
+
+
+---
+
+
+## Lessons Learned from Pilot Projects and Evaluations
+
+
+### 1. **Integrated Planning and Collaboration**
+
+
+Pilot projects have highlighted the importance of integrated planning and collaboration among stakeholders, including municipalities, heritage organizations, and local communities. For example, the Deltaprogramma Ruimtelijke Adaptatie emphasized the need for clear definitions of "climate resilience" and shared goals among project partners ([Klimaatadaptatie Nederland, 2021](https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen)).
+
+
+### 2. **Balancing Modernity and Heritage**
+
+
+Successful projects have demonstrated that climate adaptation measures can be designed to complement historical aesthetics. For instance, the restoration of historical waterways in Utrecht and Amsterdam has enhanced both climate resilience and cultural heritage ([Klimaatadaptatie Nederland, 2021](https://klimaatadaptatienederland.nl/kennisdossiers/cultureel-erfgoed/integreer-cultureel-erfgoed-beleid/lokaal-regionaal-beleid)).
+
+
+### 3. **Community Engagement**
+
+
+Engaging local communities in the planning and implementation of climate adaptation measures has proven crucial for their success. Community involvement ensures that measures align with local needs and values, fostering public support and participation ([Urban Adapt, 2023](https://urbanadapt.eu/over-life-urbanadapt)).
+
+
+### 4. **Monitoring and Maintenance**
+
+
+Pilot projects have underscored the need for ongoing monitoring and maintenance of climate adaptation measures to ensure their long-term effectiveness. For example, green roofs and water squares require regular upkeep to maintain their functionality ([KAN Bouwen, 2020](https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk)).
+
+
+---
+
+
+## Conclusion
+
+
+Dutch municipalities are making significant strides in implementing climate adaptation measures in historical city centers. By integrating green infrastructure, innovative water management systems, and climate-resilient urban design, they are addressing the challenges of climate change while preserving cultural heritage. Lessons learned from pilot projects emphasize the importance of integrated planning, community engagement, and ongoing maintenance. As climate impacts intensify, these measures and insights will be critical for ensuring the resilience and livability of historical city centers in the Netherlands.
+
+
+---
+
+
+## References
+
+
+- Binnenlands Bestuur. (2020, June 18). Openbare ruimtes en klimaatadaptatiemaatregelen cruciaal in groeiende stadswijken. Sweco Nederland. https://www.binnenlandsbestuur.nl/ruimte-en-milieu/sweco-nederland/klimaatbestendige-steden
+
+
+- Klimaatadaptatie Nederland. (2021). Hoe integreer je cultureel erfgoed in lokaal of regionaal beleid? https://klimaatadaptatienederland.nl/kennisdossiers/cultureel-erfgoed/integreer-cultureel-erfgoed-beleid/lokaal-regionaal-beleid/
+
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+
+- KAN Bouwen. (2020, October 6). Klimaatadaptatie in Nederlandse steden; Waar staan we eigenlijk? https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk/
+
+
+- Urban Adapt. (2023). Over LIFE UrbanAdapt. https://urbanadapt.eu/over-life-urbanadapt/
+
+
+- Oppla. (n.d.). Rotterdam - NbS for building a waterproof city. https://oppla.eu/casestudy/19457
+INFO:     [15:30:25] 📝 Report written for 'Welke bewezen effectieve klimaatadaptatiemaatregelen implementeren Nederlandse gemeenten in hun historische binnensteden, met specifieke aandacht voor de balans tussen klimaatbestendigheid en behoud van cultuurhistorische waarden, en wat zijn de geleerde lessen uit pilotprojecten en evaluaties?'
+# Effective Climate Adaptation Measures in Dutch Historical City Centers: Balancing Climate Resilience and Cultural Heritage Preservation
+
+## Introduction
+
+As climate change continues to impact urban environments, municipalities in the Netherlands are increasingly implementing climate adaptation measures to mitigate the effects of extreme weather events such as heavy rainfall, heatwaves, and drought. These efforts are particularly challenging in historical city centers, where the need for climate resilience must be balanced with the preservation of cultural and historical values. This report explores proven climate adaptation measures implemented by Dutch municipalities in their historical city centers, focusing on the interplay between climate resilience and cultural heritage. Additionally, it examines lessons learned from pilot projects and evaluations to provide insights into best practices and future strategies.
+
+---
+
+## Climate Challenges in Historical City Centers
+
+Historical city centers in the Netherlands are uniquely vulnerable to climate change due to their dense urban fabric, limited green spaces, and aging infrastructure. Key challenges include:
+
+1. **Flooding and Water Management**: Many Dutch cities are located in low-lying areas, making them susceptible to flooding from heavy rainfall and rising water levels. Historical centers often have limited drainage capacity, increasing the risk of water damage to heritage buildings and infrastructure ([Binnenlands Bestuur, 2020](https://www.binnenlandsbestuur.nl/ruimte-en-milieu/sweco-nederland/klimaatbestendige-steden)).
+
+2. **Urban Heat Islands**: The dense construction and lack of greenery in historical centers exacerbate the urban heat island effect, leading to higher temperatures during heatwaves. This poses risks to public health and the structural integrity of historical buildings ([Klimaatadaptatie Nederland, 2021](https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten)).
+
+3. **Preservation of Cultural Heritage**: Climate adaptation measures must be carefully designed to avoid compromising the historical and aesthetic value of heritage sites. This requires innovative solutions that integrate modern climate resilience with traditional urban design ([Klimaatadaptatie Nederland, 2021](https://klimaatadaptatienederland.nl/kennisdossiers/cultureel-erfgoed/integreer-cultureel-erfgoed-beleid/lokaal-regionaal-beleid)).
+
+---
+
+## Proven Climate Adaptation Measures
+
+### 1. **Green Infrastructure**
+
+Green infrastructure, such as urban parks, green roofs, and vertical gardens, has proven effective in mitigating the effects of heatwaves and improving water management. In historical city centers, green infrastructure is often integrated into existing structures to preserve cultural heritage. For example:
+
+- **Green Roofs and Walls**: Cities like Rotterdam and Nijmegen have implemented green roofs on historical buildings to reduce heat absorption and improve insulation. These measures also help manage rainwater by reducing runoff ([Sweco Nederland, 2020](https://www.binnenlandsbestuur.nl/ruimte-en-milieu/sweco-nederland/klimaatbestendige-steden)).
+
+- **Restoration of Historical Green Spaces**: Historical parks and tree-lined avenues are being restored to provide shade and cooling effects while maintaining their cultural significance. For instance, historical tree structures in cities like Utrecht have been reintroduced to enhance urban cooling ([Klimaatadaptatie Nederland, 2021](https://klimaatadaptatienederland.nl/kennisdossiers/cultureel-erfgoed/integreer-cultureel-erfgoed-beleid/lokaal-regionaal-beleid)).
+
+---
+
+### 2. **Water Management Systems**
+
+Innovative water management systems are essential for addressing flooding in historical city centers. Key measures include:
+
+- **Water Squares**: Rotterdam has pioneered the use of water squares, multifunctional public spaces that temporarily store excess rainwater during heavy rainfall. These squares also serve as recreational areas, blending functionality with urban aesthetics ([Urban Adapt, 2023](https://urbanadapt.eu/over-life-urbanadapt)).
+
+- **Restoration of Historical Waterways**: Historical canals and watercourses are being restored to improve water drainage and storage capacity. For example, in cities like Amsterdam and Delft, previously filled-in canals have been reopened to enhance water management while preserving historical features ([Klimaatadaptatie Nederland, 2021](https://klimaatadaptatienederland.nl/kennisdossiers/cultureel-erfgoed/integreer-cultureel-erfgoed-beleid/lokaal-regionaal-beleid)).
+
+---
+
+### 3. **Climate-Resilient Urban Design**
+
+Urban design strategies that integrate climate resilience with cultural heritage preservation include:
+
+- **Permeable Pavements**: Permeable pavements are increasingly used in historical city centers to improve water infiltration and reduce runoff. These pavements are designed to blend with the historical character of the area ([KAN Bouwen, 2020](https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk)).
+
+- **Adaptive Reuse of Heritage Buildings**: Historical buildings are being retrofitted with climate-resilient features, such as improved insulation and energy-efficient systems. This approach preserves the cultural value of the buildings while enhancing their resilience to climate impacts ([Sweco Nederland, 2020](https://www.binnenlandsbestuur.nl/ruimte-en-milieu/sweco-nederland/klimaatbestendige-steden)).
+
+---
+
+## Lessons Learned from Pilot Projects and Evaluations
+
+### 1. **Integrated Planning and Collaboration**
+
+Pilot projects have highlighted the importance of integrated planning and collaboration among stakeholders, including municipalities, heritage organizations, and local communities. For example, the Deltaprogramma Ruimtelijke Adaptatie emphasized the need for clear definitions of "climate resilience" and shared goals among project partners ([Klimaatadaptatie Nederland, 2021](https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen)).
+
+### 2. **Balancing Modernity and Heritage**
+
+Successful projects have demonstrated that climate adaptation measures can be designed to complement historical aesthetics. For instance, the restoration of historical waterways in Utrecht and Amsterdam has enhanced both climate resilience and cultural heritage ([Klimaatadaptatie Nederland, 2021](https://klimaatadaptatienederland.nl/kennisdossiers/cultureel-erfgoed/integreer-cultureel-erfgoed-beleid/lokaal-regionaal-beleid)).
+
+### 3. **Community Engagement**
+
+Engaging local communities in the planning and implementation of climate adaptation measures has proven crucial for their success. Community involvement ensures that measures align with local needs and values, fostering public support and participation ([Urban Adapt, 2023](https://urbanadapt.eu/over-life-urbanadapt)).
+
+### 4. **Monitoring and Maintenance**
+
+Pilot projects have underscored the need for ongoing monitoring and maintenance of climate adaptation measures to ensure their long-term effectiveness. For example, green roofs and water squares require regular upkeep to maintain their functionality ([KAN Bouwen, 2020](https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk)).
+
+---
+
+## Conclusion
+
+Dutch municipalities are making significant strides in implementing climate adaptation measures in historical city centers. By integrating green infrastructure, innovative water management systems, and climate-res### 3. **Community Engagement**
+
+Engaging local communities in the planning and implementation of climate adaptation measures has proven crucial for their success. Community involvement ensures that measures align with local needs and values, fostering public support and participation ([Urban Adapt, 2023](https://urbanadapt.eu/over-life-urbanadapt)).
+
+### 4. **Monitoring and Maintenance**
+
+Pilot projects have underscored the need for ongoing monitoring and maintenance of climate adaptation measures to ensure their long-term effectiveness. For example, green roofs and water squares require regular upkeep to maintain their functionality ([KAN Bouwen, 2020](https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk)).
+
+---
+
+## Conclusion
+
+Dutch municipalities are making significant strides in implementing climate adaptation measures in historical city centers. By integrating green infrastructure, innovative water management systems, and climate-res
+
+Engaging local communities in the planning and implementation of climate adaptation measures has proven crucial for their success. Community involvement ensures that measures align with local needs and values, fostering public support and participation ([Urban Adapt, 2023](https://urbanadapt.eu/over-life-urbanadapt)).
+
+### 4. **Monitoring and Maintenance**
+
+Pilot projects have underscored the need for ongoing monitoring and maintenance of climate adaptation measures to ensure their long-term effectiveness. For example, green roofs and water squares require regular upkeep to maintain their functionality ([KAN Bouwen, 2020](https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk)).
+
+---
+
+## Conclusion
+
+Dutch municipalities are making significant strides in implementing climate adaptation measures in historical city centers. By integrating green infrastructure, innovative water management systems, and climate-res
+
+### 4. **Monitoring and Maintenance**
+
+Pilot projects have underscored the need for ongoing monitoring and maintenance of climate adaptation measures to ensure their long-term effectiveness. For example, green roofs and water squares require regular upkeep to maintain their functionality ([KAN Bouwen, 2020](https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk)).
+
+---
+
+## Conclusion
+
+Dutch municipalities are making significant strides in implementing climate adaptation measures in historical city centers. By integrating green infrastructure, innovative water management systems, and climate-res
+
+Pilot projects have underscored the need for ongoing monitoring and maintenance of climate adaptation measures to ensure their long-term effectiveness. For example, green roofs and water squares require regular upkeep to maintain their functionality ([KAN Bouwen, 2020](https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk)).
+
+---
+
+## Conclusion
+
+Dutch municipalities are making significant strides in implementing climate adaptation measures in historical city centers. By integrating green infrastructure, innovative water management systems, and climate-resPilot projects have underscored the need for ongoing monitoring and maintenance of climate adaptation measures to ensure their long-term effectiveness. For example, green roofs and water squares require regular upkeep to maintain their functionality ([KAN Bouwen, 2020](https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk)).
+
+---
+
+## Conclusion
+
+Dutch municipalities are making significant strides in implementing climate adaptation measures in historical city centers. By integrating green infrastructure, innovative water management systems, and climate-resilient urban design, they are addressing the challenges of climate change while preserving cultural heritage. Lessons learned from pilot projects emphasize the importance of integrated planning, community engageme
+
+## Conclusion
+
+Dutch municipalities are making significant strides in implementing climate adaptation measures in historical city centers. By integrating green infrastructure, innovative water management systems, and climate-resilient urban design, they are addressing the challenges of climate change while preserving cultural heritage. Lessons learned from pilot projects emphasize the importance of integrated planning, community engagemeDutch municipalities are making significant strides in implementing climate adaptation measures in historical city centers. By integrating green infrastructure, innovative water management systems, and climate-resilient urban design, they are addressing the challenges of climate change while preserving cultural heritage. Lessons learned from pilot projects emphasize the importance of integrated planning, community engagement, and ongoing maintenance. As climate impacts intensify, these measures and insights will be critical for ensuring the resilience and livability of historical city centers in the Netherlands.
+
+---
+
+ilient urban design, they are addressing the challenges of climate change while preserving cultural heritage. Lessons learned from pilot projects emphasize the importance of integrated planning, community engagement, and ongoing maintenance. As climate impacts intensify, these measures and insights will be critical for ensuring the resilience and livability of historical city centers in the Netherlands.
+
+---
+
+nt, and ongoing maintenance. As climate impacts intensify, these measures and insights will be critical for ensuring the resilience and livability of historical city centers in the Netherlands.
+
+---
+
+## References
+
+---
+
+## References
+
+- Binnenlands Bestuur. (2020, June 18). Openbare ruimtes en klimaatadaptatiemaatregelen cruciaal in groeiende stadswijken. Sweco Nederland. https://www.binnenlandsbestuur.nl/ruimte-en-milieu/sweco-nederland/klimaa## References
+
+- Binnenlands Bestuur. (2020, June 18). Openbare ruimtes en klimaatadaptatiemaatregelen cruciaal in groeiende stadswijken. Sweco Nederland. https://www.binnenlandsbestuur.nl/ruimte-en-milieu/sweco-nederland/klimaatbestendige-steden
+
+- Binnenlands Bestuur. (2020, June 18). Openbare ruimtes en klimaatadaptatiemaatregelen cruciaal in groeiende stadswijken. Sweco Nederland. https://www.binnenlandsbestuur.nl/ruimte-en-milieu/sweco-nederland/klimaatbestendige-steden
+- Binnenlands Bestuur. (2020, June 18). Openbare ruimtes en klimaatadaptatiemaatregelen cruciaal in groeiende stadswijken. Sweco Nederland. https://www.binnenlandsbestuur.nl/ruimte-en-milieu/sweco-nederland/klimaatbestendige-steden
+
+tbestendige-steden
+
+
+- Klimaatadaptatie Nederland. (2021). Hoe integreer je cultureel erfgoed in lokaal of regionaal beleid? https://klimaatadaptatienederland.nl/kennisdossiers/cultureel-erfgoed/integreer-cultureel-erfgoed-beleid/loka- Klimaatadaptatie Nederland. (2021). Hoe integreer je cultureel erfgoed in lokaal of regionaal beleid? https://klimaatadaptatienederland.nl/kennisdossiers/cultureel-erfgoed/integreer-cultureel-erfgoed-beleid/lokaal-regionaal-beleid/
+al-regionaal-beleid/
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+- KAN Bouwen. (2020, October 6). Klimaatadaptatie in Nederlandse steden; Waar staan we eigenlijk? https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk/
+
+- Urban Adapt. (2023). Over LIFE UrbanAdapt. https://urbanadapt.eu/over-life-urbanadapt/
+
+- Oppla. (n.d.). Rotterdam - NbS for building a waterproof city. https://oppla.eu/casestudy/19457
+PS C:\Users\chris\OneDrive - ClearCode .Net Solutions\Politieke informatiesystemen\inzicht-ui-prototype>
+
+
+
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+- KAN Bouwen. (2020, October 6). Klimaatadaptatie in Nederlandse steden; Waar staan we eigenlijk? https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk/
+
+- Urban Adapt. (2023). Over LIFE UrbanAdapt. https://urbanadapt.eu/over-life-urbanadapt/
+
+- Oppla. (n.d.). Rotterdam - NbS for building a waterproof city. https://oppla.eu/casestudy/19457
+PS C:\Users\chris\OneDrive - ClearCode .Net Solutions\Politieke informatiesystemen\inzicht-ui-prototype>
+
+
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+- KAN Bouwen. (2020, October 6). Klimaatadaptatie in Nederlandse steden; Waar staan we eigenlijk? https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk/
+
+- Urban Adapt. (2023). Over LIFE UrbanAdapt. https://urbanadapt.eu/over-life-urbanadapt/
+
+- Oppla. (n.d.). Rotterdam - NbS for building a waterproof city. https://oppla.eu/casestudy/19457
+PS C:\Users\chris\OneDrive - ClearCode .Net Solutions\Politieke informatiesystemen\inzicht-ui-prototype>
+
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+- KAN Bouwen. (2020, October 6). Klimaatadaptatie in Nederlandse steden; Waar staan we eigenlijk? https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk/
+
+- Urban Adapt. (2023). Over LIFE UrbanAdapt. https://urbanadapt.eu/over-life-urbanadapt/
+
+- Oppla. (n.d.). Rotterdam - NbS for building a waterproof city. https://oppla.eu/casestudy/19457
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+- KAN Bouwen. (2020, October 6). Klimaatadaptatie in Nederlandse steden; Waar staan we eigenlijk? https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk/
+
+- Urban Adapt. (2023). Over LIFE UrbanAdapt. https://urbanadapt.eu/over-life-urbanadapt/
+
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+- KAN Bouwen. (2020, October 6). Klimaatadaptatie in Nederlandse steden; Waar staan we eigenlijk? https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk/
+
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+- KAN Bouwen. (2020, October 6). Klimaatadaptatie in Nederlandse steden; Waar staan we eigenlijk? https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk/
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Uitvoeringsprojecten: de belangrijkste lessen. https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/uitvoeringsprojecten-belangrijkste-lessen/
+
+- Klimaatadaptatie Nederland. (2021). Hoe pakken gemeenten klimaatadaptatie aan? https://klimaatadaptatienederland.nl/actueel/actueel/nieuws/2021/aanpak-klimaatadaptatie-gemeenten/
+
+- KAN Bouwen. (2020, October 6). Klimaatadaptatie in Nederlandse steden; Waar staan we eigenlijk? https://www.kanbouwen.nl/2020/10/06/klimaatadaptatie-in-nederlandse-steden-waar-staan-we-eigenlijk/
+
+- Urban Adapt. (2023). Over LIFE UrbanAdapt. https://urbanadapt.eu/over-life-urbanadapt/
+
+- Oppla. (n.d.). Rotterdam - NbS for building a waterproof city. https://oppla.eu/casestudy/19457
+</bronnen>
+
+<gebruikersvraag>
+Hoe bereiden andere gemeenten zich voor op klimaatadaptatie in historische binnensteden?
+</gebruikersvraag>
+
+De huidige datum is: {CURRENT_DATE}
+
+De gebruiker is actief in de gemeente: {GEMEENTE}
+
+De rol van de gebruiker is actief in de gemeente: {GEMEENTE}
+
+Genereer op basis van de systeemprompt en de gebruikersvraag een uitgebreide Nederlandstalige analyse die zowel principieel als praktisch onderbouwd is met respect voor verschillende zienswijzen maar vanuit een duidelijke ecocentrische visie. Genereer ook een korte lijst met suggesties voor follow-up vragen.
+Voorbeeld output:
+{
+    "analyse": "analyse",
+    "suggesties": ["suggestie1", "suggestie2", "suggestie3"]
+}
+Output alleen een JSON dict volgens dit voorbeeld, geen andere tekst.

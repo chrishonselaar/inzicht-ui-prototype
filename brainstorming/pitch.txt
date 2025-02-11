@@ -1,0 +1,321 @@
+Help me prepare for a pitch tomorrow. I have developed AI tools for aiding municipal council members and others in research, decision making and meeting preparation.
+These tools build on SOTA LLMs and a self-compiled dataset of high quality vector embeddings of 30.000 municipal archive documents (Besluitenlijst Agendacommissie, Collegebrieven, Initiatiefvoorstellen, Moties, Overige ingekomen stukken, Raadsvoorstellen, Reglementen en verordeningen raad, Schriftelijke vragen, Verslag Politiek Vragenuur, Verslag Politieke Woensdag, Verslag Raadsvergadering) from Groningen and Amsterdam, complete over the last 8 years. 
+
+The first tool, called Waldorf, offers a deep research chat interface that preprocesses questions, detects the intent and generates optimal semantic vector queries and online research queries, and can do deep analysis on huge user-supplied documents. Relevant sources from online deep research, municipal archives and huge user document user uploads (like incoming permit applications, animal/environment reports) are combined and fed with a value aligned system prompt to generate a final response, citations and suggestions for follow-up questions. The system prompt is built on a manifesto of values that we believe are important for the future of our democracy, namely depolarisation, integrity and principles over short-term outcomes, due diligence and transparency. Also, it is built on the belief that the council members are not experts in all topics, and that they should not be expected to be. And we have taken the ecocentrist perspective that animals, nature and biodiversity are just as important as humans. This is important because we believe that technology should be guided by values, and without conscious direction will not in and of itself be aligned with democratic values.
+
+Additionally, I have developed a real-time tool for listening to live meetings, which provides live fact-checking and context discovery, called Statler.
+
+There is a roadmap as well for the next 6 months:
+
+# Roadmap
+
+- add LLM query generation for vectordb and deepresearch/perplexity
+- add chat list/thread management
+- add configurable system prompt (for instance specifying the user's focus municipality)
+- add authentication
+- improve citations presentation
+- add user file upload
+- add inline timeline visualizations
+- add inline entity/document relationship visualizations
+- add agentic search, consisting of a RAG (perplexity/milvus embeddings) planner, prompt generator and executioner
+- add more sources
+- add llm preprocessing to pipeline and use extra metadata for smart tool-based topic/entity filtering, better visualizations, etc
+
+## Down the road
+- other semi-public sources like jurisprudence
+- add more analysis and visualization tools
+- add collaboration tools
+- add more reporting tools
+- add end-user self-service for setting up document set scrapes
+- add end-user self-service for setting up analysis pipelines
+  - use agentic pipeline that is able to write and evaluate custom python scraping code per dataset added
+
+I want to open source the code for all tools, so that others may benefit and build on it. I wish to directly work with small, environmentally friendly and animal/civil rights aware political parties and NGOs to perfect this tool and measure its impact. I strongly believe that it will be a game changer for the way democracy works, but also wish to remain mindful that the technology is not a panacea and should be used with care, and as a supplement to, not a replacement for, democracy. This will require research and experimentation, and active involvement of many parties in the public sphere. We have an expressed interest from Hans Baai from Wakker Dier as well.
+Right now we have working prototypes for Waldorf and Statler, and are looking for a partner to run the first hands-on practical pilot experiments, where we will directly modify the tools in real-time as they are being used by the end-users. I am thinking of a 3 month duration, starting with a pilot group of 2-5 end-users (council members, staff, volunteers). I can commit to 20-30 hours per week. I do need to be mindful of my finances, so I absolutely need to charge for the work. I am not looking to make a profit, and am deeply convinced that the tools will have orders of magnitude more impact than any amount of money I could charge for. To restrict financial risk for partners, we will work in small phases with clear milestones where there will always be clear deliverables. At minimum, partners will have access to the tools as-is, and my commitment on supporting them indefinitely, because for me this project is born out of idealsm.
+My background is: 
+
+<resume>
+Chris Honselaar – Curriculum Vitae 1-10-2024
+
+Groningen, Nederland
+E-mail: chris.honselaar@gmail.com
+LinkedIn profile: https://www.linkedin.com/in/chris-honselaar-4b9a08b4
+Telefoon: 06-30888259
+
+Profiel
+Innovatieve en veelzijdige full-stack polyglot softwareontwikkelaar met ruim 25 jaar ervaring, gespecialiseerd in eLearning-technologie. Gepassioneerd door geavanceerde AI, collectieve menselijke intelligentieversterking, duurzame ontwikkeling en opkomen voor de stemlozen. Op zoek naar een rol waarin ik mijn technische expertise en creatieve probleemoplossende vaardigheden kan inzetten om technologie te combineren met sociale en ecologische impact.
+
+Kernvaardigheden
+- Full-stack softwareontwikkeling
+- Ontwerp en implementatie van eLearning-platforms
+- AI en machine learning
+- Projectmanagement
+- Conceptontwikkeling
+- Duurzaamheidsadvies
+- Innovatie in onderwijstechnologie
+- Onderzoek en data-analyse
+
+
+
+
+
+Werkervaring
+
+Eigenaar en Ontwikkelaar
+ClearCode Solutions, Nederland
+1999 - 2024
+-	Ontwerp en bouw van real-time virtuele evenementplatforms voor Microsoft Learning, met mogelijkheden voor directe interactie tussen 5000+ gelijktijdige deelnemers, expertteams en presentatoren.
+-	Ontwikkeling van het grootste Nederlandse gebarentaal cursusplatform en primair eLearning auteur- en leveringssysteem voor een groot academisch ziekenhuis en verschillende universiteiten.
+-	Pionier in technologieën voor online Whole Slide Image verspreiding, compositie, annotatie op pixelniveau en gebruikersinteractie.
+-	Ontwikkeling van op maat gemaakte bedrijfsautomatiseringssystemen met integratie van CRM, boekhouding, projectmanagement, fiscale rapportage, workflows, auditing en externe integraties.
+-	Momenteel bezig met het creëren van een nieuw type blended learning platform, gericht op individuele behoeften en doelen, dat conventioneel denken uitdaagt.
+
+Senior Consultant
+4DotNet
+2015
+
+Technisch coördinator
+Tata Steel Nederland, IJmuiden, Noord-Holland
+2007 - 2009
+
+Dotnet-ontwikkelaar
+4Dotnet, Meppel, Drenthe
+2004 - 2006
+
+
+Opleiding
+Rijksuniversiteit Groningen
+Master, Biologie, algemeen/bio-informatica (1997 - 2002)
+
+Microsoft Certified Solutions Developer (2005)
+
+Vrijwilligerswerk
+Partij voor de Dieren Provincie Groningen
+Ondersteuning provinciale statenfractie
+2019
+
+Handig in de Buurt
+Algemene hulp
+2023
+Interesses en Waarden
+- Gedreven om technologie in te zetten voor maatschappelijk welzijn en ecologische duurzaamheid
+- Pleitbezorger voor dierenrechten en natuurbehoud
+- Geïnteresseerd in innovatieve onderwijsbenaderingen en gepersonaliseerd leren
+- Toegewijd aan burgerparticipatie en het bevorderen van wetenschap in de politiek
+- Gefascineerd door multisensorische ervaringen en het verbreden van menselijk bewustzijn
+- Gericht op het verkennen van de ethische implicaties van AI en de potentiële voordelen voor de samenleving
+
+Huidige Focus
+Onderzoek naar hoe AI effectief kan bijdragen aan het onderwijs voor studenten, experimenterend met LLMs/Agentic AI/generative AI, semantische analyse, topic maps en Open Data. Geïnteresseerd in het ontwikkelen van tools die collectieve intelligentie versterken en de concepten van synergie en blended learning omarmen.
+
+Referenties beschikbaar op aanvraag.
+</resume>
+
+I am also talking to other parties who are engaged with AI in the public sphere.
+I do wish to de-emphasize AI a bit, I bring knowledge of statistical analysis, human interface design, and project management to the table. With 20+ years experience as a full-stack engineer, technical coördinator and team lead, and entrepreneur. 
+
+Part of the pilot project:
+* making an inventory of relevant real-world needs as expressed by political party
+* discussing additional datasets and security+privacy
+* ensuring carbon neutrality
+* ensuring human value alignment
+* streamlining interaction and analysis
+* enabling standalone self-service operation including secure login and efficient inline feedback functions to surface positive and negative experiences and ideas immediately
+* designing and tracking effectiveness metrics and real perceived value
+
+The person I'm talking to is Esther Bouma, LinkedIn profile:
+<profile>
+AboutAbout
+Cat behaviour consultant, with a Msc in Biology and a PhD in stress physiology, is interested in animal behaviour/animal welfare jobs (research and consultancy). 
+
+Job history
+During my PhD I examined the relationship between stress and depressive symptoms in adolescents (TRAILS study) and the influence of the reactivity of the stress response, sex hormones and genetic polymorphisms. After my PhD and post-doctoral position, I worked as a student counselor at the faculty of Science and Engineering and as institutional researcher, both at the University of Groningen. Currently, I work as a scientific researcher at the department of Social Psychology, also at the University of Groningen.
+
+Animal welfare
+Animal welfare has been very important in my life. During my studies I was involved in animal welfare initiatives, I support many animal welfare organisations financially and volunteer in a local shelter. As a cat behaviour consultant I hope to inspire owners to give their cats the best possible living environment. 
+
+Science
+Together with Dr. Marsha L. Reijwart, I study cat behaviour, with a focus on both welfare in multi-cat homes and aspects of the owner-cat relationship that influence cat welfare. I write science-based articles about cat behaviour for cat professionals and lay-men fr a Dutch website (www.kattenkenniscentrum.nl).
+
+My personal mission
+Although the Netherlands has a relatively high standard concerning (pet)animal welfare, there is still a lack of knowledge on (pet) animal welfare needs among owners. My mission is to increase this knowledge with respect for the owners and taking into account their perceptions and abilities. 
+
+Me in short
+Social and well-organised, creative cat-lover with a pro-active and responsible attitude who likes music, books, gardening and yoga. 
+</profile>
+
+I hope to convince Esther to help support my pitch to the hans van eck stichting (which she is a board member of) to fund the pilot with about 8.000eu, and hope to get in talks with PvdD soon to get matching funds of 8.000eu. This should cover a pilot in which we can move substantially towards a fully functional tool that can be readily applied in day-to-day activities of the PvdD fractie we would work with. I can demonstrate the working prototype tools using my laptop tomorrow.
+
+I want to make a pitch deck in Dutch, but I don't have a good way to visualize the impact of the tools yet.
+I also need a short project proposal in Dutch in one or two pages that is really easy to understand and demonstrates the value and plan in very clear terms.
+
+We should emphasize my experience in working as a volunteer and temporary council member surrogate with the Partij voor de Dieren Provinciale Staten Groningen, and how it made clear that the work of spitting through archives, analyzing huge technical permit application documents, identifying potential strategic party aligments for proposals, "unblocking" council members and staff who are inundated with information, is key to strengthering to foothold of PvdD and similar parties. The pitch needs above all to make it clear without doubt that I am ideally positioned to execute this job, that we are already off to a flying start, and that the tools will be a game changer for animal rights (Esther's mission).
+
+I can illustrate with two examples out of personal experience:
+* the time I was able to help Groningen block circus animals by finding precedents in other municipalities and illustrating how they achieved this (inter-/intra- party collaboration on National level)
+* the time I was working on a large permit application for a new biomass plant, and found that the application was incomplete and inaccurate, and was able to help formulate critical questions for the council members to consider. Having a document analysis tool to quickly find anomalies and inconsistencies and key metrics in the documents would have been a game changer and saved a lot of time.
+* spitting through vast IPCC reports to help convince local government of the urgency of climate change and the need for action.
+* "The Plant-based and Vegan Handbook" coming out last year, a vast tome containing: Interdisciplinary examination of veganism by acknowledged experts, Relevant to psychology as well as environmental studies, animal studies and sustainability studies, Encompassing ethical, moral, and religious issues. This is a goldmine for evidence-based advocacy, but too large to be read and intended for reference. Our document analysis tool would have been able to easily extract relevant insights to any policy question on these topics.
+
+This recent news article clearly illustrates the problem council members face, which we hope to alleviate:
+<recent_news>
+Raadsleden missen een informatiesysteem
+Een ict-oplossing die aansluit op de taken van moderne raadsleden ontbreekt. Daardoor zoeken raadsleden zich suf.
+
+ Marjolein van Trigt
+ 04 september 2023
+digitale frustratie
+− Shutterstock
+Raadsleden ontberen een deugdelijk informatiesysteem. Daardoor moeten ze terugvallen op houtje-touwtjeoplossingen en knutselen veel raadsleden hun eigen archief in elkaar. Binnen de G4 kijkt men naar koepelorganisatie VNG en Binnenlandse Zaken voor een ict-oplossing.
+Alarm over werkdruk
+Het is een opvallende passage in een brief van de G4 uit juli 2023. De voorzitters van de presidia en het ­dagelijks bestuur van de gemeenteraden van Amsterdam, Rotterdam, Den Haag en Utrecht slaan alarm over de werkdruk van raads­leden en pleiten daarbij onder meer voor ondersteuning bij voorzieningen op ict-gebied. De vindbaarheid van informatie is cruciaal voor het raadswerk, schrijven ze, maar juist op dat onderdeel laten de systemen de raadsleden in de kou staan. 
+
+Raadsleden zoeken zich suf
+De gemeenteraad beschikt niet over een goed digitaal informatiesysteem. Het gevolg is dat raadsleden heel wat afzoeken. Wat is er twee raadsperiodes geleden besloten over het beleidsstuk dat nu weer langskomt? Wat vonden mijn politieke voorgangers van dit onderwerp, dat vroeger onder een andere terminologie aan de orde kwam?  
+
+Kennis van zaken
+Het zoekwerk neemt te veel tijd in beslag, terwijl het raadslidmaatschap een parttime ambt is. ‘Als je je werk serieus neemt, wil je praten op basis van kennis van zaken’, zegt Merel van Hall, raadsgriffier en directeur Raadsorganen bij de gemeente Utrecht. ‘Je moet snappen waar het over gaat. Vervolgens wil je een politiek standpunt bepalen. Dat is heel moeilijk als je het met heel beperkte informatie moet doen en daarna zelf op zoek moet.’ 
+
+Nieuwe fracties hebben het zwaar
+Waar het college wordt ondersteund door een grote ambtelijke organisatie met dossierkennis en een geordend digitaal archief, geldt dat doorgaans niet voor de raadsfracties. Vooral nieuwe fracties hebben het zwaar. Waar de gevestigde raadsfracties in de loop der jaren een eigen archief ontwikkelen, kunnen nieuwe fracties daar nog niet op bogen. Dat levert een ongelijkwaardige situatie op, die pas een beetje wordt opgeheven tegen de tijd dat de vier jaar er bijna op zitten.
+
+Digitale stukken
+Toen de digitalisering van gemeenten goed op gang kwam, ongeveer twintig jaar geleden, leek het verstandig om een ­onderscheid te maken tussen het werk van de gemeentelijke organisatie en dat van de raad. Gemeentelijke dossierkasten werden vervangen door digitale archieven. ­Raadsvergaderingen op basis van pakken papier veranderden in vergaderingen met livestream en digitale stukken, die raads­leden zelf konden opslaan en ordenen. Dat is sindsdien niet wezenlijk veranderd.  
+
+Dynamische rol raadslid
+‘In feite zijn we nog hetzelfde aan het doen als in 1890, toen een bode op de fiets alle stukken bij de raadsleden afleverde’, zegt Gijs Corten, plaatsvervangend griffier en senior-adviseur bestuurlijke positionering in Utrecht. ‘Onze moderne vergadersystemen zijn het digitale equivalent. Je krijgt de stukken aangeleverd, die komen op een agenda te staan en daarmee kun je vergaderen. Het vergadersysteem op zich werkt ­prima, maar de wereld is veranderd.  De rol van een raadslid is tegenwoordig veel dynamischer.’ 
+
+In feite zijn we nog hetzelfde aan het doen als in 1890
+
+Griffier Gijs Corten
+
+Houtje-touwtjeoplossingen
+Natuurlijk bestaan er allerhande houtje-touwtjeoplossingen, zoals appjes en e-mails voor snel contact, en eigen voorzieningen, zoals Ureka, de zoekmachine die Utrecht ontwikkelde. Maar de basis, een ­informatiesysteem dat aansluit op de taken van moderne raadsleden, ontbreekt. Dat heeft brede gevolgen. De voorbereiding van een motie neemt veel tijd in beslag door het zoeken naar de juiste informatie. De afstemming tussen fracties loopt soms spaak omdat ze een motie niet goed kunnen ­toetsen in een samenwerkingsomgeving. En ook het informeren van burgers, toch een kerntaak voor het openbaar bestuur, wordt bemoeilijkt door het ontbreken van een dergelijk systeem. 
+
+Generieke oplossing nodig
+Vooraleerst is het nodig dat er een ­partij boven de partijen hangt en een strategie bepaalt. Het ministerie van Binnenlandse Zaken en de VNG zouden samen de aanjager van een ict-oplossing moeten zijn. Die zou in ieder geval generiek moeten zijn, met ruimte voor lokale aanvullingen. ‘Van bovenaf kijken wat er nodig is om de democratie goed te laten functioneren, is net iets anders dan de klantbeleving ophalen, zoals een leverancier doet,’ verduidelijkt Van Hall. ‘Het heeft een normatief karakter. Wat heeft de meeste prioriteit?’ ­Commerciële partijen mogen vervolgens best een rol krijgen in de oplossing, zolang die maar generiek is. Corten: ‘We willen geen kleine stapjes meer maken, maar een grote sprong.’ 
+</recent_news>
+
+We have the following first draft of the proposal:
+<draft_proposal>
+Intelligente Kennisanalyse voor Democratische Besluitvorming
+Versterking van Evidence-Based Beleid voor Dierenrechten
+Het Probleem
+
+Raadsleden en beleidsmedewerkers staan voor een groeiende uitdaging:
+
+Steeds complexere technische dossiers
+Exponentieel groeiende hoeveelheid beleidsdocumenten
+Beperkte tijd voor diepgaande analyse
+Cruciale details die over het hoofd worden gezien
+Moeite met het vinden van relevante precedenten
+Uitdaging om wetenschappelijke inzichten effectief te benutten
+
+Dit leidt tot gemiste kansen voor dierenwelzijn en duurzaamheid, zoals recent bleek bij:
+
+Vergunningsaanvragen voor biomassacentrales
+Mogelijkheden voor verbod op circusdieren
+Implementatie van IPCC-rapport aanbevelingen
+Benutting van nieuwe wetenschappelijke inzichten uit "The Plant-based and Vegan Handbook"
+
+De Oplossing
+Twee complementaire kennisanalysetools die direct inspelen op deze uitdagingen:
+1. Waldorf: Diepgaande Kennisassistent
+
+Geavanceerde analyse van 30.000+ gemeentelijke documenten
+Semantische zoektechnologie voor precedentonderzoek
+Systematische analyse van grote technische documenten
+Directe koppeling met wetenschappelijke bronnen
+
+2. Statler: Intelligente Vergaderondersteuning
+
+Live bronverificatie tijdens vergaderingen
+Contextgestuurde informatievoorziening
+Directe toegang tot relevante documentatie
+
+Huidige Status
+
+Werkende prototypes van beide tools
+Bewezen technische haalbaarheid
+Succesvolle initiële tests
+Klaar voor professionalisering en praktijkimplementatie
+
+Pilot Project: Van Prototype naar Praktijk
+Doel: Professionalisering en praktijkvalidatie van de tools
+Duur: 3 maanden
+Inzet: 20-30 uur per week
+Deelnemers: 2-5 eindgebruikers
+Fasering
+Maand 1: Implementatie & Training
+
+Verfijning van gebruikersinterface
+Opstellen gebruikersdocumentatie
+Training van pilotgroep
+Eerste praktijkinzet
+
+Maand 2: Optimalisatie
+
+Analyse van gebruikersfeedback
+Implementatie van verbeteringen
+Uitbreiding functionaliteit
+Ontwikkeling van best practices
+
+Maand 3: Validatie & Opschaling
+
+Effectiviteitsmeting
+Documentatie van use cases
+Voorbereiding bredere uitrol
+Plan voor doorontwikkeling
+
+Concrete Deliverables
+
+Productiewaardige versies van beide tools
+Uitgebreide gebruikersdocumentatie
+Training en ondersteuningsmateriaal
+Best practices handleiding
+Effectiviteitsrapportage
+Plan voor verdere implementatie
+
+Unieke Positionering voor Uitvoering
+
+25+ jaar ervaring in kennissystemen
+Directe ervaring met PvdD Provinciale Staten
+Expertise in statistische analyse
+Focus op dierenwelzijn en duurzaamheid
+Open source filosofie
+
+Investering
+Totale investering: €16.000
+
+€8.000 Hans van Eck Stichting
+€8.000 matching funds PvdD
+
+Deze investering dekt:
+
+Professionalisering van bestaande tools
+Implementatie en training
+Praktijkvalidatie
+Documentatie en kennisdeling
+
+Impact voor Dierenwelzijn
+
+Versnelde identificatie van kansen voor dierenbescherming
+Effectievere onderbouwing van standpunten
+Verbeterde besluitvorming
+Versterking van evidence-based advocacy
+
+Toekomstvisie
+
+Open source voor maximale impact
+Focus op kleine partijen en NGOs
+Blijvende ondersteuning
+Meetbare resultaten voor dierenwelzijn
+
+Contact
+Chris Honselaar
+E-mail: chris.honselaar@gmail.com
+Tel: 06-30888259
+</draft_proposal>
+
+Read all the project background above and improve the draft proposal. Fist paragraph should be a 3-sentence impactful abstract that explains the problem, the solution and the impact. "Recent hebben we dit concreet gezien bij:" we should introduce these as just a few practical examples I encountered personally. Not neccesarily recently.
+

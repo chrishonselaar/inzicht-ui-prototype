@@ -1,0 +1,27 @@
+Here's a simple processing flow:
+
+1. Real-time transcript processing:
+- invoke gemini-1.5-flash-8B for every 5 segments we receive in print_messages_from_socket to:
+  - Identify current topic and speaker positions
+  - Track any decisions or proposals mentioned
+  - determine if there is reason to search the municipal archive for similar discussions (Besluitenlijst Agendacommissie, Collegebrieven, Initiatiefvoorstellen, Moties, Overige ingekomen stukken, Raadsvoorstellen, Reglementen en verordeningen raad, Schriftelijke vragen, Verslag Politiek Vragenuur, Verslag Politieke Woensdag, Verslag Raadsvergadering),
+  - if so, generate a semantic search phrase for the vector db archive and embed it using voyage-3-large. Look for: policy decisions, voting outcomes, previous arguments. and then search using milvus.py
+  - determine if there is reason to search the internet (scientific papers, news articles, social media, etc.)  
+  - if so, use Perplexity API to find results
+  - invoke gemini-1.5-flash-8B again to briefly summarize the results 
+  - prompt template:
+```
+Context: [Last 5 min transcript]
+Current topic: [Topic]
+Previous relevant decisions: [Vector search results]
+
+Provide 2-3 bullet points on:
+- Related historical decisions
+- Key stakeholder positions
+- Potential policy implications
+```
+
+5. Output prioritization:
+- Show most relevant historical decisions first
+- Highlight any conflicting past positions
+- Flag potential policy conflicts or precedents
