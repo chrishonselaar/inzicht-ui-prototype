@@ -7,8 +7,8 @@
 # Note: Some macOS users might need to use `pip3` instead of `pip`.
 
 import assemblyai as aai
-
-aai.settings.api_key = "67cfed428b224466b4ad718df93e11e7"
+import os
+aai.settings.api_key = os.getenv("ASSEMBLY_API_KEY")
 
 def on_open(session_opened: aai.RealtimeSessionOpened):
   "This function is called when the connection has been established."
