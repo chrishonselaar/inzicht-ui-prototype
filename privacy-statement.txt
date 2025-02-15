@@ -1,0 +1,77 @@
+# Privacy Policy
+
+Last updated: February 15, 2025
+
+## 1. Introduction
+
+This Privacy Policy describes how we collect, use, process, and protect your personal information. We are committed to protecting your privacy and handling your data in an open and transparent manner.
+
+## 2. Data Collection and Use
+
+### 2.1 Information We Collect
+
+We collect and process the following types of information:
+- Technical information (e.g., IP addresses, browser type, device information)
+- Usage data (e.g., pages visited, time spent on site)
+- Any information you voluntarily provide through forms or contact methods
+
+### 2.2 Data Processing Principles
+
+All collected data is:
+- Processed lawfully, fairly, and transparently
+- Collected for specified, explicit, and legitimate purposes
+- Minimized to what is necessary
+- Kept accurate and up to date
+- Stored only as long as necessary
+- Processed securely and protected against unauthorized access
+
+### 2.3 Anonymization
+
+All collected data is automatically anonymized. We implement technical measures to ensure that personal data cannot be attributed to a specific data subject without additional information.
+
+## 3. Data Storage and Security
+
+We implement appropriate technical and organizational measures to protect your data, including:
+- Encryption of data in transit and at rest
+- Regular security assessments
+- Access controls and authentication measures
+- Regular backup procedures
+
+## 4. Your Rights Under GDPR
+
+You have the right to:
+- Access your personal data
+- Correct inaccurate personal data
+- Request erasure of your personal data
+- Object to processing of your personal data
+- Data portability
+- Withdraw consent at any time
+
+## 5. Third-Party Services
+
+We use Facebook Developer tools and services. Our use of these services complies with Facebook's Platform Terms and Developer Policies.
+
+## 6. International Data Transfers
+
+If we transfer your data outside the EU/EEA, we ensure appropriate safeguards are in place in accordance with GDPR requirements.
+
+## 7. Changes to This Policy
+
+We reserve the right to update this Privacy Policy at any time. We will notify users of any material changes by posting the new Privacy Policy on this page.
+
+## 8. Contact Information
+
+For any questions about this Privacy Policy or our data practices, please contact us at:
+[Your Contact Information]
+
+## 9. Legal Basis for Processing
+
+We process personal data only where we have a legal basis to do so under Article 6 of the GDPR, including:
+- Consent
+- Contractual necessity
+- Legal obligations
+- Legitimate interests
+
+## 10. Cookie Policy
+
+We use only essential cookies necessary for the website's functionality. All cookie data is anonymized and no personal information is stored.
